@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": 1353101047,
+	"installed_packages":
+	[
+		"Alignment",
+		"AsAbove",
+		"DetectSyntax",
+		"Git",
+		"Package Control",
+		"RubyTest",
+		"SideBarEnhancements",
+		"SublimeBlockCursor",
+		"Theme - Phoenix",
+		"Theme - Soda"
+	]
+}

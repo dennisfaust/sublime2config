@@ -1,0 +1,6 @@
+/Settings
+/Backup
+Backup
+*.tm
+*.cache
+.DS_Store
